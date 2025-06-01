@@ -1,0 +1,9 @@
+Produto 1
+Preço: 25
+Quantidade: 10
+Produto 2
+Preço: 30
+Quantidade: 12
+Produto 3
+Preço: 50
+Quantidade: 100

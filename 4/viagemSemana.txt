@@ -1,0 +1,26 @@
+Dia 1: 
+	Km: 23. 
+	Arrecadado: 43R$. 
+Dia 2: 
+	Km: 23. 
+	Arrecadado: 43R$. 
+Dia 3: 
+	Km: 23. 
+	Arrecadado: 43R$. 
+Dia 4: 
+	Km: 23. 
+	Arrecadado: 43R$. 
+Dia 5: 
+	Km: 23. 
+	Arrecadado: 43R$. 
+Dia 6: 
+	Km: 23. 
+	Arrecadado: 4R$. 
+Dia 7: 
+	Km: 43. 
+	Arrecadado: 34R$. 
+
+
+Relatório da semana: 
+	Km: 181. 
+	Faturamento: 253
